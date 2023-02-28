@@ -12,7 +12,7 @@
 	<artifactId>springboot-thymeleaf-demo</artifactId>
 	<version>springboot-thymeleaf-demo-1.0.0</version>
 	<name>springboot-thymeleaf-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot project to play with Thymeleaf template and expressions</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
